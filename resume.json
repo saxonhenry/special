@@ -1,0 +1,92 @@
+{
+  "titleNameMap": {
+    "educationList": "教育背景",
+    "workExpList": "工作经历",
+    "projectList": "项目经验",
+    "skillList": "个人技能",
+    "awardList": "更多信息",
+    "workList": "个人作品",
+    "aboutme": "个人评价"
+  },
+  "avatar": {
+    "src": "https://avatars.githubusercontent.com/u/15646325?v=4",
+    "hidden": true
+  },
+  "profile": {
+    "name": "卢伟恒",
+    "email": "henryoooops@gmail.com",
+    "mobile": "15618233270",
+    "github": "",
+    "zhihu": "",
+    "workExpYear": ""
+  },
+  "educationList": [
+    {
+      "edu_time": [
+        "2015.09.01",
+        "2019.06.30"
+      ],
+      "school": "铜陵学院",
+      "major": "数字媒体技术",
+      "academic_degree": "本科"
+    }
+  ],
+  "awardList": [
+    {
+      "award_info": "英语 CET4",
+      "award_time": "2016"
+    }
+  ],
+  "workExpList": [
+    {
+      "company_name": "上海亿栈信息技术有限公司",
+      "department_name": "信息技术部",
+      "work_time": [
+        "2022.08",
+        null
+      ],
+      "work_desc": "作为核心开发，从事掌上营业厅业务项目开发和改造"
+    },
+    {
+      "company_name": "薪得付信息技术（上海）有限公司",
+      "department_name": "R&D",
+      "work_time": [
+        "2019.06",
+        "2022.07"
+      ],
+      "work_desc": "负责并维护多个项目后端开发和需求沟通，负责项目技术选型和外部技术层面沟通"
+    }
+  ],
+  "skillList": [],
+  "projectList": [
+    {
+      "project_name": "个税通",
+      "project_role": "核心开发者",
+      "project_time": "2019.06 - 2022.07",
+      "project_desc": " 面向多租户下多企业快速批量算税，报税， 申报等繁琐操作 ，极大程度缩短财务申报周期。 ",
+      "project_content": "1. 独立负责产品从 0 到 1 的开发、产品功能迭代（在项目中具有推动项目进度的经验） \n2. 产品体验精雕细琢的打磨 \n3. 设计任务调度框架技术并实现，融合Kafka，redis 和 xxl-job 实现分布式任务调度模块，对任务的重试调度和幂等消费等施行完善的调度控制。"
+    },
+    {
+      "project_name": "Westar 消费者改造",
+      "project_role": "核心开发者",
+      "project_time": "2021.07 - 2022.07",
+      "project_desc": "为了迎合公司的服务网格，微服务治理，需要将原有的 C#编写的消费者改成Java 消费者，部署到 kubernetes。",
+      "project_content": "在该项目中主要负责后端技术选型和技术改造\n1. 主导开放能力建设，拉通产品、设计建设和扩展业务维度和产品赋能\n2. 产品体验优化，面对高并发场景做到业务可回溯可追踪\n3. 实时解决和处理线上高并发问题。"
+    },
+    {
+      "project_name": "掌上营业厅",
+      "project_role": "核心开发者",
+      "project_time": "2019 - 至今",
+      "project_desc": "东吴证券面向C端,网上营业厅程序，产品面向东吴证券客户，赋能柜台让用户足不出户线上办理证券类业务",
+      "project_content": "新掌上营业厅改造，业务7*24小时改造，业务办理结果实时推送，提升用户体验。\n1. 负责新掌厅改造和技术选型\n2. 掌厅7*24小时框架设计及开发，赋能线上业务，让用户非交易日也可正常办理业务\n3. 面向运维人员开发掌厅管控台业务\n4. 掌厅跑批框架重构，支持业务可回溯、可追踪、可溯源。"
+    }
+  ],
+  "workList": [],
+  "aboutme": {
+    "aboutme_desc": "🌱 多年大型项目经历，专注在任务管理和高并发场景\n1. 项目管理: 具有独立跟进和推动项目进度经验，把控研发测试交付进展。\n2.高并发场景任务管理: 对高并发框架有理解，遇到并解决多种消费者高并发场景\n"
+  },
+  "theme": {
+    "color": "#2f5785",
+    "tagColor": "#8bc34a"
+  }
+}
